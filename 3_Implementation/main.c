@@ -66,7 +66,7 @@ int main()
 {
 	while (1) {
 		printf(""
-			"\n\nWelcome to Food ");
+			"\n\nWelcome to Click to Eat ");
 		printf("Ordering System\n\n1)SIGNUP\n");
 		printf("2)LOGIN\n3)EXIT\n\n");
 		printf("Enter your choice\t");
