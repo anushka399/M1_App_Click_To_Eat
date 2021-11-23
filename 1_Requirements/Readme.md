@@ -5,6 +5,16 @@
 The online ordering system can be defined as a simple and convenient way for customers to purchase food online, without having to go to the restaurant. This system is enabled by the internet – it is the internet that connects the restaurant or the food company on one hand, and the customer on other hand.
 
 
+# **Research:**
+#### Scope:-
+Online ordering is been so easy and handy to use with security as in day to day busy schedule online ordering is playing a remarkable role. Where customers get their choosen item at the door step.
+
+#### Benefit:
+- Time saving.
+- Highly Secured data.
+- Customer Satisfaction.
+
+
 # **Cost & Features & Timeline:**
 
 #### Cost:-
@@ -57,7 +67,11 @@ The project is on software basis so can be operated on smartphone/laptop/ipad et
 #### High level Requirement:-
 - Sign-up/Login ceredentials.
 - Validation of credential and security.
-- Smarphone/Laptop/ipad.
-- Strong Internet connection.
+- Smarphone/Laptop/ipad with internet connection.
+
+
+#### Low Level Requirement:-
+- User can choose food according to chosing restaurants or food item.
+- User can choose the quantity of item according to their choice. 
 
 
