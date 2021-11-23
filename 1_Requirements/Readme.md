@@ -60,14 +60,18 @@ Using a smartphone/laptop order can be placed from anywhere anytime.
 #### How
 The project is on software basis so can be operated on smartphone/laptop/ipad etc. consisting a good internet connection.
 
-# **Detail Requrement**
-#### High level Requirement
-- Sign-up/Login ceredentials.
-- Validation of credential and security.
-- Smarphone/Laptop/ipad with internet connection.
+# **Detail Requirement**
+#### High level Requirement:-
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | User shall be able add login/sign-up  | Implemented|
+|HLR2  | User shall be able to List of by choice of hotel or food | Implemented|
+|HLR3  | User shall be able to modifying food quantity            |	Implemented|
+|HLR4  | User shall be able to see total bill                     |	Implemented|
 
-#### Low Level Requirement
-- User can choose food according to chosing restaurants or food item.
-- User can choose the quantity of item according to their choice. 
-
+#### Low level Requirement 
+ | ID | Description | Status |
+|-------|------|------|
+| LLR1 | User shall be able to fet perfect bill amount      | Implemented| 
+| LLR2 |System displays error if ceredentials doesn't match | Implemented |
 
