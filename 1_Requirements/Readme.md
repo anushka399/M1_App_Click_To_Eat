@@ -1,9 +1,9 @@
 # **REQUIREMENTS**
 
-# **Introduction**
+## **Introduction**
 The online ordering system can be defined as a simple and convenient way for customers to purchase food online, without having to go to the restaurant. This system is enabled by the internet – it is the internet that connects the restaurant or the food company on one hand, and the customer on other hand.
 
-# **Research**
+## **Research**
 #### Scope
 Online ordering is been so easy and handy to use with security as in day to day busy schedule online ordering is playing a remarkable role. Where customers get their choosen item at the door step.
 
@@ -12,7 +12,7 @@ Online ordering is been so easy and handy to use with security as in day to day 
 - Highly Secured data.
 - Customer Satisfaction.
 
-# **Cost & Features & Timeline**
+## **Cost & Features & Timeline**
 
 #### Cost
 - Online food ordering costs 10%-15% more than traditional ordering.
@@ -37,11 +37,11 @@ Online ordering is been so easy and handy to use with security as in day to day 
 - 2021 – Uber plans to begin drone food delivery.
 
 
-# **Defining Our System**
+## **Defining Our System**
 Online food ordering in this project in which customers will order food but for that they nee to follow few steps i.e. firstly need to to sign up by providing their name, email, password, mobile number and already a customer of Click to Eat then need to login by giving the email,password. Later have choice to select items as per need or as per restaurant. Customer can select any food item and quantity of that item as per choice and see the total bill in cart option. Then they can  place order or exit.
 
 
-# **SWOT Analysis**
+## **SWOT Analysis**
 
 ###   **4W's 1H**
 
@@ -60,7 +60,7 @@ Using a smartphone/laptop order can be placed from anywhere anytime.
 #### How
 The project is on software basis so can be operated on smartphone/laptop/ipad etc. consisting a good internet connection.
 
-# **Detail Requirement**
+## **Detail Requirement**
 #### High level Requirement:-
 | ID | Description | Status |
 |------| ------| ------|
