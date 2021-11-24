@@ -1,6 +1,6 @@
 /**
  * @file mypro.h
- * @author Click to eat (you@domain.com)
+ * @author Click to eat 
  * @brief 
  * @version 0.1
  * @date 2021-11-24
