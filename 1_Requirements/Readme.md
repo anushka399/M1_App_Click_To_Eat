@@ -48,6 +48,23 @@ Online ordering is been so easy and handy to use with security as in day to day 
 Online food ordering in this project in which customers will order food but for that they nee to follow few steps i.e. firstly need to to sign up by providing their name, email, password, mobile number and already a customer of Click to Eat then need to login by giving the email,password. Later have choice to select items as per need or as per restaurant. Customer can select any food item and quantity of that item as per choice and see the total bill in cart option. Then they can  place order or exit.
 
 ## **SWOT Analysis**
+
+### STRENGTHS
+* Devolops knowledge
+* Improves Math Skills
+* Improves concentration
+
+### WEAKNESS
+* Works only with keyboard
+* 
+### OPERTUNITIES 
+* We can increase the number of rows and columns in the game if updated.
+* Our game is portable i.e., it can be used in both linux and windows. 
+![SWOT-Sample](Link to pic)
+
+### THREATS
+* There are so many improvements with the latest technology but our game is fundamental.
+
 ### **4W's 1H**
 
 #### Who 
